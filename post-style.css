@@ -103,3 +103,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+h2 {
+    text-align: center;
+    font-size: 14px;
+}
